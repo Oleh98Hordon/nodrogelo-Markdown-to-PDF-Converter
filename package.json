@@ -1,20 +1,23 @@
 {
-  "name": "markdownintopdf", 
-  "version": "1.0.0", 
-  "description": "This can be particularly useful for documentation projects where a printable version is needed", 
+  "name": "markdownintopdf",
+  "version": "1.0.0",
+  "description": "This can be particularly useful for documentation projects where a printable version is needed",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Oleh98Hordon/nodrogelo-Markdown-to-PDF-Converter.git" 
+    "url": "https://github.com/Oleh98Hordon/nodrogelo-Markdown-to-PDF-Converter.git"
   },
-  "keywords": [ 
-    "teathebest", 
+  "keywords": [
+    "teathebest",
     "markdowntopdf",
     "pdf"
   ],
-  "author": "Nodrogelo", 
-  "license": "MIT"
+  "author": "Nodrogelo",
+  "license": "MIT",
+  "dependencies": {
+    "nodrogelo-snippet": "^1.0.0"
+  }
 }
