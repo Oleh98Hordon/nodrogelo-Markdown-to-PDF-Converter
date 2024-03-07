@@ -1,5 +1,5 @@
 {
-  "name": "markdowntopdf", 
+  "name": "markdownintopdf", 
   "version": "1.0.0", 
   "description": "This can be particularly useful for documentation projects where a printable version is needed", 
   "main": "./src/index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "" // репозиторий (заполним чуть позже)
+    "url": "https://github.com/Oleh98Hordon/nodrogelo-Markdown-to-PDF-Converter.git" 
   },
-  "keywords": [ // ключевые слова (необязательно)
-    "", 
-    "",
-    ""
+  "keywords": [ 
+    "teathebest", 
+    "markdowntopdf",
+    "pdf"
   ],
-  "author": "", // автор (необязательно)
+  "author": "Nodrogelo", 
   "license": "MIT"
 }
