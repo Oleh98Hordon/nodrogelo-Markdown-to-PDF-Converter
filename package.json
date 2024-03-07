@@ -1,6 +1,6 @@
 {
   "name": "markdownintopdf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This can be particularly useful for documentation projects where a printable version is needed",
   "main": "./src/index.js",
   "scripts": {
